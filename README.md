@@ -10,9 +10,9 @@
 
 </div>
 
-## 👤 A little bit about me
+##  A little bit about me
 
-*   👨‍💻 I'm **Ghassan**, a **Python developer** specializing in **Artificial Intelligence**.
+*   👨‍💻 I'm **Ghassan_Jaha**, a **Python developer** specializing in **Artificial Intelligence**.
 *   🤖 I build intelligent systems and real-world AI solutions.
 *   ⚡ I'm passionate about pushing limits — in both software and high-performance machines.
 *   🏎️ Deep interest in automotive engineering, engine tuning, ECU programming, and performance optimization.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects (Coming Soon)
+##  Projects (Coming Soon)
 
 *   ⚡ **Engine data analysis & predictive maintenance:** Using AI to monitor vehicle health.
 
