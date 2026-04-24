@@ -1,57 +1,64 @@
-<div align="center">
+![tech](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-<!-- الهيدر الرئيسي (يُفضل رفع الصورة التي صممتها واستخدام رابطها هنا) -->
-<img src="رابط_صورة_الغلاف_هنا" alt="Ghassan Jaha Header" width="100%">
-
-# Ghassan_Jaha
-### Artificial Intelligence | Automotive Performance Enthusiast
+<h3 align="center">
+Ghassan | Python Developer | Artificial Intelligence Engineer | Automotive Performance Enthusiast 🚀
+</h3>
 
 ---
 
-</div>
+## A little bit about me
 
-## 👤 A little bit about me
+🎓 &nbsp;I'm Ghassan, a Python developer specializing in Artificial Intelligence.
 
-*   👨‍💻 I'm **Ghassan**, a Python developer specializing in **Artificial Intelligence**.
-*   💡 I build intelligent systems, real-world AI solutions.
-*   ⚡ I'm passionate about pushing limits — in both **software** and **high-performance machines**.
-*   🚗 Deep interest in **automotive engineering**, engine tuning, ECU programming, and performance optimization.
-*   🔧 I enjoy combining code with mechanical systems to create powerful and efficient builds.
-*   📚 Currently focused on **Machine Learning**, AI systems.
-*   💬 Open to collaborations, ideas, and discussions in AI, programming, and automotive tech.
+🧠 &nbsp;I build intelligent systems, automation tools, and real-world AI solutions.
 
----
+⚡ &nbsp;I’m passionate about pushing limits — in both software and high-performance machines.
 
-## 📊 Statistics
+🏎️ &nbsp;Deep interest in automotive engineering, engine tuning, ECU programming, and performance optimization.
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Ghassan Stats" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-</div>
+🔧 &nbsp;I enjoy combining code with mechanical systems to create powerful and efficient builds.
+
+📚 &nbsp;Currently focused on Machine Learning, Deep Learning, and advanced AI systems.
+
+💬 &nbsp;Open to collaborations, ideas, and discussions in AI, programming, and automotive tech.
 
 ---
 
-## </> Projects (Coming Soon)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+</p>
 
-*   **⚡ Engine data analysis & predictive maintenance:** Using AI to monitor vehicle health and performance.
+NOTE: These stats reflect activity, not skill level.
 
 ---
 
-## 🔗 Connect with me
+## Projects (Coming Soon)
 
-<div align="left">
-  <a href="mailto:sanoo268668@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gassan-jaha-194315308/">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</div>
+🚧 &nbsp;AI-powered automotive diagnostics system  
+🚧 &nbsp;Engine data analysis & predictive maintenance  
+🚧 &nbsp;Performance tuning tools using Python  
+🚧 &nbsp;Smart vehicle monitoring systems  
+
+---
+
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Connect with me
+
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/fluent/32/000000/domain.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/32/000000/docker.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/32/000000/youtube.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png"/></a>
+</p>
