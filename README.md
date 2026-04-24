@@ -37,6 +37,5 @@
 
 <div align="center">
 
-> *"Combining code with mechanical systems to create powerful and efficient builds."*
 
 </div>
