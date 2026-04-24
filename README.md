@@ -1,24 +1,26 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+![tech](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <h3 align="center">
-Python Developer | Artificial Intelligence Engineer | Automotive Performance Enthusiast 🚀
+Ghassan | Python Developer | Artificial Intelligence Engineer | Automotive Performance Enthusiast 🚀
 </h3>
+
+---
 
 ## A little bit about me
 
-🎓 &nbsp;I'm Ghassan, a Python developer specializing in Artificial Intelligence and smart systems.
+🎓 &nbsp;I'm Ghassan, a Python developer specializing in Artificial Intelligence.
 
-🧠 &nbsp;Focused on building AI-driven solutions, automation tools, and real-world intelligent applications.
+🧠 &nbsp;I build intelligent systems, automation tools, and real-world AI solutions.
 
-⚡ &nbsp;Passionate about pushing limits — whether in code or in high-performance machines.
+⚡ &nbsp;I’m passionate about pushing limits — in both software and high-performance machines.
 
 🏎️ &nbsp;Deep interest in automotive engineering, engine tuning, ECU programming, and performance optimization.
 
-🔧 &nbsp;I enjoy combining software with mechanical systems to create powerful, efficient, and innovative solutions.
+🔧 &nbsp;I enjoy combining code with mechanical systems to create powerful and efficient builds.
 
-📚 &nbsp;Currently expanding my knowledge in Machine Learning, Deep Learning, and advanced AI systems.
+📚 &nbsp;Currently focused on Machine Learning, Deep Learning, and advanced AI systems.
 
-💬 &nbsp;Open to collaboration, ideas, and discussions in AI, tech, and automotive innovation.
+💬 &nbsp;Open to collaborations, ideas, and discussions in AI, programming, and automotive tech.
 
 ---
 
@@ -32,6 +34,15 @@ NOTE: These stats reflect activity, not skill level.
 
 ---
 
+## Projects (Coming Soon)
+
+🚧 &nbsp;AI-powered automotive diagnostics system  
+🚧 &nbsp;Engine data analysis & predictive maintenance  
+🚧 &nbsp;Performance tuning tools using Python  
+🚧 &nbsp;Smart vehicle monitoring systems  
+
+---
+
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -40,7 +51,7 @@ NOTE: These stats reflect activity, not skill level.
 
 ---
 
-## Links
+## Connect with me
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/fluent/32/000000/domain.png"/></a>
