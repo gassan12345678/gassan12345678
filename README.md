@@ -1,7 +1,7 @@
-
+# Ghassan_Jaha 👋
 
 <div align="center">
-  <img src="https://giphy.com" width="600" alt="AI and Automotive Tech GIF">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Tech GIF">
 </div>
 
 ### Artificial Intelligence | Automotive Performance Enthusiast
