@@ -1,63 +1,52 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1702.00  ┤
- 1688.75  ┤                                                                                           ╭╮     ╭
- 1675.50  ┤                                                                                     ╭╮    │╰╮  ╭╮│
- 1662.25  ┤                                                                                     │╰╮  ╭╯ ╰╮╭╯╰╯
- 1649.00  ┤                                                                                     │ │ ╭╯   ││
- 1635.75  ┤                                                                                  ╭╮╭╯ ╰╮│    ╰╯
- 1622.50  ┤                                                                                  │││   ╰╯
- 1609.25  ┤                                                                         ╭╮   ╭╮  │╰╯
- 1596.00  ┤                                                                       ╭─╯╰───╯╰╮╭╯
- 1582.75  ┤                                                                 ╭╮╭───╯        ╰╯
- 1569.50  ┤         ╭╮                                                    ╭─╯╰╯
- 1556.25  ┤    ╭╮╭╮╭╯╰───╮                                 ╭╮╭╮╭╮╭─╮╭─╮  ╭╯
- 1543.00  ┤  ╭─╯╰╯╰╯     ╰─╮  ╭───╮          ╭╮╭──╮╭──╮  ╭─╯╰╯╰╯╰╯ ╰╯ ╰──╯
- 1529.75  ┤╭─╯             ╰╮╭╯   ╰─╮       ╭╯╰╯  ╰╯  ╰╮╭╯
- 1516.50  ┼╯                ╰╯      ╰─╮   ╭─╯          ╰╯
- 1503.25  ┤                           ╰─╮╭╯
- 1490.00  ┤                             ╰╯
+## I little bit about me
 
-Chart last updated - Fri Apr 24 12:18:29 EDT 2026  
-  ```
-  
+🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
+🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
+✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
+💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
+✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
+
+---
+
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+---
+
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Harness Engineering in Practice: Building Maestro v2, an Autonomous GitHub Agent Orchestrator using Claude Code](https://blog.mphomphego.co.za/blog/2026/04/18/harness-engineering-building-maestro-v2-an-autonomous-github-agent-orchestrator.html)
+- [Did I Just Accidentally Build a Memory Management System for Claude Code?](https://blog.mphomphego.co.za/blog/2026/03/21/Did-I-Just-Accidentally-Build-a-Memory-Management-System-for-Claude-Code.html)
+- [Running Google ADK Agents on AWS Bedrock via LiteLLM in Production: A Practical Guide to the Gotchas](https://blog.mphomphego.co.za/blog/2026/03/05/Running-Google-ADK-Agents-on-AWS-Bedrock-via-LiteLLM.html)
+- [How I Built 20+ Custom AI Coding Skills to Automate My Entire Engineering Workflow](https://blog.mphomphego.co.za/blog/2026/02/28/How-I-Built-20+-Custom-AI-Coding-Skills-to-Automate-My-Entire-Engineering-Workflow.html)
+- [Why Mpho Mphego Might Be The World’s Worst AI Software And Data Engineer](https://blog.mphomphego.co.za/blog/2026/02/04/Why-Mpho-Mphego-Might-Be-the-World-s-Worst-AI-Software-and-Data-Engineer.html)
+- [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
+- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
+- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
+- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
+- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Links
+
+<p align="center">
+  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+</p>
