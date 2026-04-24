@@ -1,10 +1,10 @@
-
+# <div align="center">Ghassan_Jaha 👋</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Tech GIF">
+  <img src="https://giphy.com" width="600" alt="Tech GIF">
+  
+  ### Artificial Intelligence | Automotive Performance Enthusiast
 </div>
-
-   ## Artificial Intelligence | Automotive Performance Enthusiast
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-> *"Combining code with mechanical systems to create powerful and efficient builds."*
+> <div align="center">"Combining code with mechanical systems to create powerful and efficient builds."</div>
