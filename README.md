@@ -28,8 +28,8 @@
 *    OilAlert Dashboard (Simulator) as prototype (https://gassanlsx427-public-dashboard-oilalert.static.hf.space)
 *    files of project https://huggingface.co/spaces/Gassanlsx427/public_dashboard_oilalert/tree/main
 *    real time as prototype with my local connection just in my laptop :
-https://youtube.com/shorts/BDBhVxRxGfc?si=vVKyukNosxItykOA
-https://www.youtube.com/shorts/bZrgclQeH0s
+*video 1 : https://youtube.com/shorts/BDBhVxRxGfc?si=vVKyukNosxItykOA
+*video 2 : https://www.youtube.com/shorts/bZrgclQeH0s
 ---
 
 ## 🔗 Connect with me
