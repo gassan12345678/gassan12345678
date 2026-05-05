@@ -25,7 +25,7 @@
 ##  Projects (Coming Soon)
 
 *    **Engine data analysis & predictive maintenance:** Using AI to monitor vehicle health.
-
+*    **OilAlert Dashboard (Simulator) as prtotype (https://gassanlsx427-public-dashboard-oilalert.static.hf.space)
 ---
 
 ## 🔗 Connect with me
