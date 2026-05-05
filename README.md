@@ -25,8 +25,11 @@
 ##  Project OilAlert AI system (Coming Soon)
 
 *    **Engine data analysis & predictive maintenance:** Using AI to monitor vehicle health.
-*    OilAlert Dashboard (Simulator) as prtotype (https://gassanlsx427-public-dashboard-oilalert.static.hf.space)
+*    OilAlert Dashboard (Simulator) as prototype (https://gassanlsx427-public-dashboard-oilalert.static.hf.space)
 *    files of project https://huggingface.co/spaces/Gassanlsx427/public_dashboard_oilalert/tree/main
+*    real time as prototype with my local connection just in my laptop :
+https://youtube.com/shorts/BDBhVxRxGfc?si=vVKyukNosxItykOA
+https://www.youtube.com/shorts/bZrgclQeH0s
 ---
 
 ## 🔗 Connect with me
